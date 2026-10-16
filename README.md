@@ -43,7 +43,7 @@ The complete pipeline notebook includes **all original outputs** from the Kaggle
 
 | Notebook | Contents | Open |
 |---|---|---|
-| `MedTriMambaKAN_final.ipynb` | Data preparation, patient-level splits, training, cross-validation, ablation, internal and external evaluation, Grad-CAM++, calibration, t-SNE | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hx971LELs2FLIzctMLZ_4L5vXltRIt_r) |
+| `MedTriMambaKAN_final.ipynb` | Data preparation, patient-level splits, training, cross-validation, ablation, internal and external evaluation, Grad-CAM++, calibration, t-SNE | [![Open In Colab](https://colab.research.google.com/drive/1JM-kf9lU8NzwgKZIfOBPVDC60fxK-NnD#scrollTo=IjWKjnpZOvJH) |
 
 > **Note:** The notebook was developed and run on Kaggle. Dataset paths in the configuration cell point to Kaggle inputs; update them before re-running on Colab or locally. Full re-training requires a GPU.
 
